@@ -23,6 +23,10 @@ following:
 In examples directory there are many examples which illustrate how to use the kernel. 
 ![example](examples/example.png)
 
+## Try the CWL kernel on Binder
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fabricebrito/CWLJNIKernel/HEAD?urlpath=lab)
+
 ## How to contribute
 If you are a CWL developer and you would like to contribute feel free to open an issue and ask for new features you 
 would like to see. 
